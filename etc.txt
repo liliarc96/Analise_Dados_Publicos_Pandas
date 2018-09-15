@@ -12,6 +12,7 @@ http://transparencia.gov.br/
 http://educacao.dadosabertosbr.com/
 https://speakerdeck.com/fmasanori/programacao-para-jornalistas
 https://mybinder.org/
+https://colab.research.google.com/notebooks/welcome.ipynb
 
 Aula:
 1.Prompt de Comando - jupyter notebook
