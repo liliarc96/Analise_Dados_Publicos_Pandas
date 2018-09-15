@@ -11,6 +11,7 @@ https://mrmorais.github.io/2017/09/23/Medindo-qualidade-do-servico-Uber-X-em-Nat
 http://transparencia.gov.br/
 http://educacao.dadosabertosbr.com/
 https://speakerdeck.com/fmasanori/programacao-para-jornalistas
+https://mybinder.org/
 
 Aula:
 1.Prompt de Comando - jupyter notebook
