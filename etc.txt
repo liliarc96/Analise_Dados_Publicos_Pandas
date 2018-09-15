@@ -15,3 +15,6 @@ Aula:
 1.Prompt de Comando - jupyter notebook
 2.New >> Pyton 3
 3.ctrl + enter (executa comando)
+
+Extensão:
+https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=pt-BR
