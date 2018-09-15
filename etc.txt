@@ -4,4 +4,10 @@ http://dontpad.com/masanoriJP/
 https://serenata.ai/
 http://www.brasil317.com.br/
 http://servicodados.ibge.gov.br/
-http://ipea.gov.br
+http://ipea.gov.br/
+
+
+Aula:
+1.Prompt de Comando - jupyter notebook
+2.New >> Pyton 3
+3.ctrl + enter (executa comando)
