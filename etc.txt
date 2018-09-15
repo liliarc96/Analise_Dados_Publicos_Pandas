@@ -6,6 +6,7 @@ http://www.brasil317.com.br/
 http://servicodados.ibge.gov.br/
 http://ipea.gov.br/
 https://www.nabuscadocandidato.com.br/
+https://github.com/fmasanori/hacking-health-sc-2017 - Análise exploratória da fila.ipynb
 
 Aula:
 1.Prompt de Comando - jupyter notebook
