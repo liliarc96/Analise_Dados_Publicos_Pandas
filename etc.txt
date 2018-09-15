@@ -5,7 +5,7 @@ https://serenata.ai/
 http://www.brasil317.com.br/
 http://servicodados.ibge.gov.br/
 http://ipea.gov.br/
-
+https://www.nabuscadocandidato.com.br/
 
 Aula:
 1.Prompt de Comando - jupyter notebook
